@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**luizz-costa/luizz-costa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m Luiz Costa, a Backend Developer based in Brazil.</br>
+I transform ideas into dynamic systems and intelligent tools.
+## Main Technologies
+**Back-end:** PHP, Laravel </br>
+**Front-end:** HTML, CSS, JavaScript </br>
+**Database:** SQL, NoSQL </br>
+## Tools & Other Skills
+**Scripting:** Shell Script, PowerShell *(basic level / studies)*</br>
+**Containers:** Docker *(basic level / studies)*</br>
+**Other Technologies:** Python *(basic level / studies)*, Linux *(basic level / studies)*</br>
+## Current Focus
+- Improving backend development skills
+- Building practical projects
+- Learning best practices and software architecture
