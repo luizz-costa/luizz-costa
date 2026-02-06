@@ -5,7 +5,7 @@ I transform ideas into dynamic systems and intelligent tools.
 ### Main Technologies
 **Back-end:** PHP, Laravel  
 **Front-end:** HTML, CSS, JavaScript  
-**Database:** SQL, NoSQL  
+**Database:** MySQL, SQL  
 ### Tools & Other Skills
 **Scripting:** Shell Script, PowerShell *(basic level / studies)*  
 **Containers:** Docker *(basic level / studies)*  
