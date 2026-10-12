@@ -39,7 +39,7 @@ flowchart LR
 - **Testes:** gerador de dados fictícios que simulou mais de 260 serviços, conferidos com consultas SQL, e roteiro com 34 casos de teste. O defeito encontrado foi corrigido e retestado.
 - **Requisitos e documentação:** entrevista com o usuário do processo, análise das planilhas da operação e registro de mais de 50 decisões técnicas.
 
-**[Ver o código no GitHub](https://github.com/luizz-costa/rodizio-escalas)** · versão de portfólio com dados fictícios
+**[Ver o código no GitHub](https://github.com/luizz-costa/rodizio-escalas)** 
 
 ## Outros projetos
 
