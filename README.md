@@ -47,7 +47,7 @@ flowchart LR
 
 Sistema de gerenciamento de conteúdo em PHP 8, com POO e MVC: rotas, área administrativa, autenticação, sessões e CRUD, com proteção contra SQL Injection e XSS. Está publicado em hospedagem web e evoluindo para Laravel.
 
-<!-- Se o repositório for público, acrescente aqui: [Ver o código](https://github.com/luizz-costa/NOME-DO-REPOSITORIO) -->
+**[Ver o código no GitHub](https://github.com/luizz-costa/meu-blog-portfolio)**
 
 ### ControleCerto · projeto acadêmico em equipe
 
