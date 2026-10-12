@@ -6,7 +6,7 @@ Busco um **estágio em desenvolvimento back-end** para aprender com um time expe
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luizz-costa/)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@luizzfcosta)
-[![Site](https://img.shields.io/badge/Site-121011?style=for-the-badge&logo=ghost&logoColor=white)](https://luizzcosta.site/)
+[![Site](https://img.shields.io/badge/Site-121011?style=for-the-badge&logo=ghost&logoColor=white)](https://luizz-costa.github.io/)
 
 ## Sobre mim
 
@@ -39,10 +39,7 @@ flowchart LR
 - **Testes:** gerador de dados fictícios que simulou mais de 260 serviços, conferidos com consultas SQL, e roteiro com 34 casos de teste. O defeito encontrado foi corrigido e retestado.
 - **Requisitos e documentação:** entrevista com o usuário do processo, análise das planilhas da operação e registro de mais de 50 decisões técnicas.
 
-> O código está no repositório do projeto da faculdade. Uma versão pública para portfólio, com nomes e dados fictícios, está em preparação.
-
-<!-- Quando publicar a versão de portfólio, troque a citação acima por:
-[Ver o código no GitHub](https://github.com/luizz-costa/NOME-DO-REPOSITORIO) -->
+**[Ver o código no GitHub](https://github.com/luizz-costa/rodizio-escalas)** · versão de portfólio com dados fictícios
 
 ## Outros projetos
 
@@ -85,7 +82,7 @@ AWS · Terraform · Python · Shell Script · GitHub Actions · Redes para DevOp
 ## No momento
 
 - Aprendendo testes automatizados com xUnit
-- Preparando a versão pública do sistema de escalas
+- Escrevendo os testes automatizados do Rodizio com xUnit
 - Aprofundando Docker, Linux e AWS
 - Evoluindo no inglês, hoje no nível intermediário (B1)
 
