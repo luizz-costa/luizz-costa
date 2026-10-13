@@ -1,4 +1,4 @@
-# Olá, eu sou o Luiz Felipe Costa 👋
+# Olá, eu sou o Luiz 👋
 
 **Estudante de Sistemas de Informação na PUC Minas · Desenvolvedor back-end em formação · Belo Horizonte, MG**
 
