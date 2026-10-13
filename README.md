@@ -18,18 +18,9 @@ Busco um **estágio em desenvolvimento back-end** para aprender com um time expe
 
 ## Projeto em destaque: Sistema de Gestão de Escalas
 
-Sistema web criado para substituir as planilhas usadas na montagem de escalas de serviço. Foi desenvolvido em um **projeto de extensão da PUC Minas com uma empresa parceira**, e eu fui responsável pelo desenvolvimento, dos requisitos aos testes.
+Sistema web criado para substituir as planilhas usadas na montagem de escalas de serviço. Foi desenvolvido em um **projeto de extensão da PUC Minas com uma empresa parceira**, e eu desenvolvi o sistema sozinho, dos requisitos aos testes
 
-```mermaid
-flowchart LR
-    T["Telas web<br/>HTML · CSS · JavaScript"]
-    subgraph S["Servidor Linux · acesso por SSH"]
-        A["API REST<br/>C# · ASP.NET Core · .NET 8"]
-        B[("PostgreSQL<br/>em Docker")]
-    end
-    T -->|"HTTP · JSON"| A
-    A -->|"Entity Framework Core"| B
-```
+![Arquitetura do Rodizio](https://github.com/luizz-costa/rodizio-escalas/raw/main/img/arquitetura.svg)
 
 - **API REST** em C# com .NET 8 e ASP.NET Core, documentada e testada com Swagger.
 - **Banco PostgreSQL** modelado com Entity Framework Core: code-first, migrations, chaves estrangeiras e índices únicos.
