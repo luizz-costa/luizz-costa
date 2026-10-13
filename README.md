@@ -37,7 +37,7 @@ flowchart LR
 - **Interface web** em HTML, CSS e JavaScript puro, com 5 telas que consomem a API e proteção contra XSS.
 - **Ambiente:** servidor Linux acessado por SSH, PostgreSQL em Docker Compose e credenciais fora do repositório, com User Secrets.
 - **Testes:** gerador de dados fictícios que simulou mais de 260 serviços, conferidos com consultas SQL, e roteiro com 34 casos de teste. O defeito encontrado foi corrigido e retestado.
-- **Requisitos e documentação:** entrevista com o usuário do processo, análise das planilhas da operação e registro de mais de 50 decisões técnicas.
+- **Requisitos e documentação:** entrevista com o usuário do processo, análise das planilhas da operação e registro de mais de 74 decisões técnicas.
 
 **[Ver o código no GitHub](https://github.com/luizz-costa/rodizio-escalas)** 
 
@@ -81,7 +81,6 @@ AWS · Terraform · Python · Shell Script · GitHub Actions · Redes para DevOp
 
 ## No momento
 
-- Aprendendo testes automatizados com xUnit
 - Escrevendo os testes automatizados do Rodizio com xUnit
 - Aprofundando Docker, Linux e AWS
 - Evoluindo no inglês, hoje no nível intermediário (B1)
